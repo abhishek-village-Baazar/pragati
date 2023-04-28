@@ -1,0 +1,98 @@
+body {
+	background-color: #f1f1f1;
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	margin: auto;
+	text-align: center;
+	padding: 100px 0;
+}
+
+.construction-image {
+	max-width: 100%;
+	height: auto;
+}
+
+.logo {
+	max-width: 200px;
+	height: auto;
+	margin-bottom: 50px;
+}
+
+h1 {
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+
+#countdown {
+	display: flex;
+	justify-content: center;
+}
+
+.countdown-item {
+	font-size: 40px;
+	margin: 0 20px;
+}
+
+span {
+	font-size: 60px;
+}
+body {
+	background-color: #f1f1f1;
+	font-family: Arial, sans-serif;
+}
+
+.container {
+	margin: auto;
+	text-align: center;
+	padding: 100px 0;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 50px;
+}
+
+h1 {
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+
+#countdown {
+	display: flex;
+	justify-content: center;
+}
+
+.countdown-item {
+	font-size: 40px;
+	margin: 0 20px;
+}
+
+span {
+	font-size: 60px;
+}
+
+  .whatsapp-logo {
+	width: 200px;
+	height: 200px;
+	position: static;	
+  }
+  .whatsapp-container {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+  }
+  
+  
